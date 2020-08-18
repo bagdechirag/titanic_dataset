@@ -1,2 +1,2 @@
 # titanic_dataset
-Using titanic datset for ml algo
+Using titanic dataset for different types of ml algos
